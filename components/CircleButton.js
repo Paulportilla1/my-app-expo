@@ -17,15 +17,15 @@ const styles = StyleSheet.create({
     height: 84,
     marginHorizontal: 60,
     borderWidth: 4,
-    borderColor: 'blue',
-    borderRadius: 42,
+    borderColor: 'red',
+    borderRadius: 20, // Modifica este valor según tu preferencia para cambiar la forma del círculo
     padding: 3,
   },
   circleButton: {
     flex: 1,
     justifyContent: 'center',
     alignItems: 'center',
-    borderRadius: 42,
+    borderRadius: 20, // Ajusta este valor para que coincida con el valor en circleButtonContainer
     backgroundColor: '#fff',
   },
 });
