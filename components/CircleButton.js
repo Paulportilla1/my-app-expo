@@ -18,14 +18,14 @@ const styles = StyleSheet.create({
     marginHorizontal: 60,
     borderWidth: 4,
     borderColor: 'red',
-    borderRadius: 20, // Modifica este valor según tu preferencia para cambiar la forma del círculo
+    borderRadius: 20, 
     padding: 3,
   },
   circleButton: {
     flex: 1,
     justifyContent: 'center',
     alignItems: 'center',
-    borderRadius: 20, // Ajusta este valor para que coincida con el valor en circleButtonContainer
+    borderRadius: 20, 
     backgroundColor: '#fff',
   },
 });
